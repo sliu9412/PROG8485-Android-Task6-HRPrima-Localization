@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">招聘神器</string>
+    <string name="next">下一页</string>
+    <string name="skip">跳过</string>
+    <string name="cont">继续</string>
+
+    <string name="slide_1_title">欢迎使用招聘神器</string>
+    <string name="slide_1_desc">终极人力资源应用的强大功能！</string>
+    <string name="slide_2_title">建立员工管理机制</string>
+    <string name="slide_2_desc">终极人力资源应用的强大功能！</string>
+    <string name="slide_3_title">收入管理</string>
+    <string name="slide_3_desc">终极人力资源应用的强大功能！</string>
+
+    <string name="add_emp">添加新员工</string>
+    <string name="delete_emp">删除员工</string>
+    <string name="list_emp">列出员工</string>
+    <string name="update_emp">更新员工信息</string>
+
+    <!-- The below two strings represents the open and close operations of the navigation drawer -->
+    <string name="nav_open">打开</string>
+    <string name="nav_close">关闭</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好，空白的碎片页</string>
+
+    <string name="search">搜索</string>
+    <string name="account">账号</string>
+    <string name="profile">个人</string>
+    <string name="list_employees_title">员工清单</string>
+    <string name="login_title">登录</string>
+    <string name="login_user_id">用户编号:</string>
+    <string name="login_password">密码:</string>
+    <string name="login_e_mail_id">电子邮箱:</string>
+    <string name="login_login_btn">登录</string>
+    <string name="delete_employee_title">删除员工</string>
+    <string name="delete_employee_id">员工编号:</string>
+    <string name="delete_delete_btn">删除</string>
+    <!--    Add Employee Fragment-->
+    <string name="add_employee_title">添加员工</string>
+    <string name="add_employee_name">姓名:</string>
+    <string name="add_employee_designation">指定人:</string>
+    <string name="add_employee_department">部门:</string>
+    <string name="add_employee_email">电子邮件:</string>
+    <string name="add_employee_salary">薪资:</string>
+    <string name="add_employee_submit">提交表单</string>
+</resources>
